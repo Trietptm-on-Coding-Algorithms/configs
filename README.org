@@ -6,3 +6,7 @@ ln -s .vimrc ~/.vimrc
 * zsh
 
 ln binjo.zsh-theme ~/.oh-my-zsh/themes/binjo.zsh-theme
+
+* tmux
+
+ln -s .tmux.conf ~/.tmux.conf
