@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+    <item>
+        <name>Command_L+Return to Shift_L+Insert</name>
+        <appendix>Command_L+Return to Shift_L+Insert</appendix>
+        <identifier>private.cmd_lr2ins</identifier>
+        <autogen>
+            __KeyToKey__ KeyCode::RETURN,  ModifierFlag::COMMAND_L, KeyCode::PC_INSERT, ModifierFlag::SHIFT_L
+        </autogen>
+    </item>
+</root>
